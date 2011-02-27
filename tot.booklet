@@ -1,0 +1,41 @@
+--- booklet sans T dans l'AAAAAA4
+PageWidth = 841.88976
+PageHeight = 595.27559
+print("PageCount",PageCount)
+
+-- We assume that H > W
+-- Argh, we now can do better since we have "if" ;-)
+-- Scale = PageHeight / (2*SourceWidth)
+
+rot = 0
+leftxof = (PageWidth / 2) - SourceWidth
+yof = (PageHeight - SourceHeight) / 2
+rightxof = (PageWidth / 2)
+
+
+do
+	rest = PageCount % 4
+	totp = PageCount
+	if rest ~= 0
+		then 
+		totp = totp + ( 4 - rest)
+		end
+	inc = 0
+	count = 0
+	imax = totp/4
+	while count < imax
+		do
+-- 		We assume that podofoimpose will discard invalid records
+-- 		such as those with source page greater than PageCount
+-- 		print(totp, inc, rot, xof,yofRA, yofRA, yofVA, yofVB)
+-- Recto
+		PushRecord(totp - inc , inc + 1 , rot, leftxof , yof)
+		PushRecord(inc + 1 , inc + 1 , rot, rightxof , yof)
+-- Verso
+		PushRecord(inc + 2 , inc + 2 , rot, leftxof , yof)
+		PushRecord(totp-(inc + 1) , inc + 2 , rot, rightxof, yof)
+		
+		count = count + 1
+		inc = inc + 2
+		end
+end
