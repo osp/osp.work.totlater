@@ -29,7 +29,7 @@
             <Tabs Type="0" Pos="3" Fill=""/>
         </STYLE>
         <STYLE NAME="non baseline last par" PARENT="non baseline" VOR="5" NACH="7"/>
-        <STYLE NAME="coloph1" ALIGN="0" LINESPMode="0" LINESP="10" NACH="0" FONT="Alfphabetbipocat Condensed" FONTSIZE="8" LANGUAGE="Dutch"/>
+        <STYLE NAME="coloph1" ALIGN="0" LINESPMode="0" LINESP="10" FIRST="0.493228346456693" NACH="0" FONT="Alfphabetbipocat Condensed" FONTSIZE="8" LANGUAGE="Dutch"/>
         <STYLE NAME="coloph2" LINESP="17" FONT="Alfphabetbipocat Condensed" FONTSIZE="15" LANGUAGE="Dutch"/>
         <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Alfphabetbipocat Condensed" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="French"/>
         <CHARSTYLE CNAME="folio" FONTSIZE="8" LANGUAGE="French"/>
@@ -2343,7 +2343,7 @@
         <PAGEOBJECT OwnPage="55" PTYPE="4" XPOS="159.528188976378" YPOS="15072.2759055118" WIDTH="246.614173228346" HEIGHT="377.536771653558" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 246.614 0 246.614 0 246.614 0 246.614 0 246.614 377.537 246.614 377.537 246.614 377.537 246.614 377.537 0 377.537 0 377.537 0 377.537 0 377.537 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 246.614 0 246.614 0 246.614 0 246.614 0 246.614 377.537 246.614 377.537 246.614 377.537 246.614 377.537 0 377.537 0 377.537 0 377.537 0 377.537 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="209">
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="177" PTYPE="4" XPOS="160.004409448819" YPOS="47764.6044094488" WIDTH="245.684409448819" HEIGHT="383.017322834716" RADRECT="0" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="32" POCOOR="245.684 0 245.684 0 245.684 263.01 245.684 263.01 245.684 263.01 245.684 263.01 245.684 383.017 245.684 383.017 245.684 383.017 245.684 383.017 0 200.013 0 200.013 0 200.013 0 200.013 166.304 64.6235 166.304 64.6235 166.304 64.6235 166.304 64.6235 148.671 34.3332 148.671 34.3332 148.671 34.3332 148.671 34.3332 219.696 24.9789 219.696 24.9789 219.696 24.9789 219.696 24.9789 214.345 20.0013 214.345 20.0013 214.345 20.0013 214.345 20.0013 245.684 0 245.684 0 " NUMCO="16" COCOOR="20.5063 2.99339 20.5063 2.99339 220.519 2.99339 220.519 2.99339 220.519 2.99339 220.519 2.99339 220.519 363.016 220.519 363.016 220.519 363.016 220.519 363.016 20.5063 363.016 20.5063 363.016 20.5063 363.016 20.5063 363.016 20.5063 2.99339 20.5063 2.99339 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="177" PTYPE="4" XPOS="160.004409448819" YPOS="47766.5886614173" WIDTH="245.684409448819" HEIGHT="383.017322834716" RADRECT="0" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="32" POCOOR="245.684 0 245.684 0 245.684 263.01 245.684 263.01 245.684 263.01 245.684 263.01 245.684 383.017 245.684 383.017 245.684 383.017 245.684 383.017 0 200.013 0 200.013 0 200.013 0 200.013 166.304 64.6235 166.304 64.6235 166.304 64.6235 166.304 64.6235 148.671 34.3332 148.671 34.3332 148.671 34.3332 148.671 34.3332 219.696 24.9789 219.696 24.9789 219.696 24.9789 219.696 24.9789 214.345 20.0013 214.345 20.0013 214.345 20.0013 214.345 20.0013 245.684 0 245.684 0 " NUMCO="16" COCOOR="20.5063 2.99339 20.5063 2.99339 220.519 2.99339 220.519 2.99339 220.519 2.99339 220.519 2.99339 220.519 363.016 220.519 363.016 220.519 363.016 220.519 363.016 20.5063 363.016 20.5063 363.016 20.5063 363.016 20.5063 363.016 20.5063 2.99339 20.5063 2.99339 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT CH="a novel by"/>
             <para PARENT="coloph1"/>
             <ITEXT CH="An Mertens"/>
@@ -2366,7 +2366,8 @@
             <para PARENT="coloph2"/>
             <ITEXT FONTSIZE="8" CH="composé en Linden Hill et Alfphabet"/>
             <para PARENT="coloph1"/>
-            <ITEXT CH="with Scribus 1.4, Inkscape 0.48, PodofoImpose"/>
+            <ITEXT CH="with Scr"/>
+            <ITEXT FONTSIZE="8" CH="ibus 1.4, Inkscape 0.48, PodofoImpose"/>
             <para PARENT="coloph1"/>
             <para/>
             <ITEXT CH="Dit verhaal is opgedragen aan Magdalena Heerwegh [20.11.11-01.06.09], mijn grootmoeder, ons Bobonne."/>
@@ -2410,22 +2411,32 @@
         <PAGEOBJECT OwnPage="178" PTYPE="4" XPOS="474.173858267717" YPOS="47772.0992125984" WIDTH="246.614173228347" HEIGHT="377.007874015748" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="3.881" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 246.614 0 246.614 0 246.614 0 246.614 0 246.614 377.008 246.614 377.008 246.614 377.008 246.614 377.008 0 377.008 0 377.008 0 377.008 0 377.008 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 246.614 0 246.614 0 246.614 0 246.614 0 246.614 377.008 246.614 377.008 246.614 377.008 246.614 377.008 0 377.008 0 377.008 0 377.008 0 377.008 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="213">
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="178" PTYPE="4" XPOS="480.16062992126" YPOS="47769.5820472441" WIDTH="240.015118110236" HEIGHT="380.023937007871" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 240.015 0 240.015 0 240.015 0 240.015 0 240.015 380.024 240.015 380.024 240.015 380.024 240.015 380.024 0 380.024 0 380.024 0 380.024 0 380.024 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 240.015 0 240.015 0 240.015 0 240.015 0 240.015 380.024 240.015 380.024 240.015 380.024 240.015 380.024 0 380.024 0 380.024 0 380.024 0 380.024 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT CH=" Vormgeving: Open Source Publishing"/>
+        <PAGEOBJECT OwnPage="178" PTYPE="4" XPOS="478.16062992126" YPOS="47774.5820472441" WIDTH="240.015118110236" HEIGHT="380.023937007871" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 240.015 0 240.015 0 240.015 0 240.015 0 240.015 380.024 240.015 380.024 240.015 380.024 240.015 380.024 0 380.024 0 380.024 0 380.024 0 380.024 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 240.015 0 240.015 0 240.015 0 240.015 0 240.015 380.024 240.015 380.024 240.015 380.024 240.015 380.024 0 380.024 0 380.024 0 380.024 0 380.024 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Vormgeving"/>
+            <para PARENT="coloph1"/>
+            <ITEXT CH="Open Source Publishing"/>
+            <para PARENT="coloph2"/>
+            <ITEXT CH="Redactie"/>
+            <para PARENT="coloph1"/>
+            <ITEXT CH="Petra Van der Jeught"/>
+            <para PARENT="coloph2"/>
+            <ITEXT CH="Drukwerk"/>
+            <para PARENT="coloph1"/>
+            <ITEXT CH="Holland Ridderkerk"/>
+            <para PARENT="coloph2"/>
+            <para PARENT="coloph2"/>
+            <ITEXT FONTSIZE="8" CH="© An Mertens, Brussel, 2011. Copyleft: de inhoud van dit boek is vrij te kopiëren, te veranderen en weer uit te geven onder de voorwaarden van de Free Arts License http://artlibre.org."/>
+            <para PARENT="coloph1"/>
+            <ITEXT FONTSIZE="8" CH="Je kan dit boek downloaden als pdf via http://www.adashboard.org"/>
+            <para PARENT="coloph1"/>
+            <ITEXT FONTSIZE="8" CH="Van dit boek bestaat ook een digitale versie, opgedragen aan allen die het mee hebben gevoed, maar nooit Nederlands zullen lezen, noch een roman. Taal is Engels, leesduur is tien minuten: http://www.ciaocu.org"/>
+            <para PARENT="coloph1"/>
             <para/>
-            <ITEXT CH="Vormgeving cover: Pierre Huyghebaert"/>
-            <para/>
-            <ITEXT CH="Redactie: Petra Van der Jeught"/>
-            <para/>
-            <ITEXT CH="Drukwerk: Holland Ridderkerk"/>
-            <para/>
-            <para/>
-            <ITEXT CH="© An Mertens, Brussel, 2011. Copyleft: de inhoud van dit boek is vrij te kopiëren, te veranderen en weer uit te geven onder de voorwaarden van de Free Arts License http://artlibre.org."/>
-            <para/>
-            <ITEXT CH="Je kan dit boek downloaden als pdf via http://www.adashboard.org"/>
-            <para/>
-            <ITEXT CH="Van dit boek bestaat ook een digitale versie, opgedragen aan allen die het mee hebben gevoed, maar nooit Nederlands zullen lezen, noch een roman. Taal is Engels, leesduur is tien minuten: http://www.ciaocu.org"/>
-            <trail/>
+            <ITEXT FONTSIZE="8" CH="gezet in Linden Hill en Alfphabet"/>
+            <para PARENT="coloph1"/>
+            <ITEXT CH="met Scr"/>
+            <ITEXT FONTSIZE="8" CH="ibus 1.4, Inkscape 0.48, PodofoImpose"/>
+            <para PARENT="coloph1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
     </DOCUMENT>
