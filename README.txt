@@ -1,3 +1,16 @@
+Tot Later
+=========
+
+Novel
+-----
+
+The book was designed and typeset by OSP and printed by Holland Ridderkerk.
+- Antoine Begon, Ludi, Pierre Huyghebaert, Pierre Marchand
+2011
+http://www.adashboard.org/?p=804
+
+- - -
+
 Vertalen en vertellen : over de vormgeving van dit boek.
 
 Tot Later is de eerste roman die het vormgeverscollectiefOSP onderhanden neemt. Onze speciale relatie met de talen van Brussel speelt vanafhet eerste moment een belangrijke rol. Ludi, Antoine en Pierre (Marchand) nemen de opmaak van het binnenwerk op zich, maar werken met een gefragmenteerd en abstract beeld van de tekst. An vertaalt hele passages in het Frans en vertelt met verve over haar personages maar omdat geen van ons Nederlands leest is het beeld dat we van haar verhaal hebben als een luchtfoto, terwijl het gaat over de stad waar we allemaal thuis zijn. We proberen die tegelijk afstandelijke en betrokken positie in te zetten voor dit boek en zo wordt deze samenwerking een typisch Brusselse verhaal, waarin de vertaling tussen tekst en beeld voortdurend in vraag moet worden gesteld.
@@ -6,6 +19,7 @@ De typografische keuzes voor Tot Later zijn dus een projectie op een halfvertaal
 
 Met behulp van Scribus [1] laten we de tekst soepel rond de lege vormen lopen maar bij de eerste correctieronde merken we dat maar de helft van de woorden goed zijn af-ge-bro-ken. Scribus gebruikt in principe dezelfde informatie voor het bepalen van afbrekingen als OpenOffice [2] en TeX [3] , maar past om onbekende reden maar een klein gedeelte van die aloude kennis toe. Pierre (Marchand) begint aan een lange zoektocht naar de oorzaak van dit mysterieuze probleem [4] en genereert uiteindelijk een tekstbestand waarin een
 voorstel voor de afbreking van élk woord dat in de roman voorkomt is opgenomen. An corrigeert de lijst handmatig en de woorden worden als 'uitzonderingen' door het opmaak-programma ingelezen. Op een zomerse zondagavond verzamelen we in het kantoor van Constant om de laatste elementen bij elkaar te brengen. Pierre (Marchand) is ondertussen in Brazilië en volgt de finale met 5 uur tijdsverschil per VOIP. We raken bijna de weg kwijt tussen de vele versies van Scribus, correctierondes, afbreek-uitzonderingen en .sla-files maar zetten de laatste elementen op scherp. De verschijning van deze speciale editie van Tot Later is klaar om plaats te maken voor weer nieuwe projecties.
+
 
 OSP, juni 2011
 1 Scribus is een lay-out programma dat beschikbaar is onder een vrije licentie
